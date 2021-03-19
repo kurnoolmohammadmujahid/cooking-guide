@@ -1,0 +1,186 @@
+{
+  "menuList": [
+    {
+      "category": "Chinese",
+      "course": [
+        {
+          "subcategory": "Starter",
+          "items": [
+            {
+              "dish": "Mexican Bread Rolls",
+              "img": "",
+              "description": "1) In a large bowl combine 1 1/2 cups of flour,yeast, sugar, and salt, add warm water. Beat with an electric mixer on low to medium speed 30 seconds, scraping sides of bowl. Beat on high speed for 3 minutes. Using a wooden spoon, stir in as much of the flour as you can. <br /> 2.Turn out dough onto a lightly floured surface. Knead in enough flour to make a stiff dough that is smooth and elastic (6 to 8 minutes). Shape into a ball. Place in a lightly greased bowl, turning once to coat the surface. Cover and let rise, in a warm space, for one hour. <br /> 3. Punch down after 1 hour.Turn out onto lightly floured surface. Divide the dough into 6 equal parts, shape into oval shapes, pulling and twisting slightly. Transfer to baking sheet lined with parchment paper. Use a sharp knife to make a cut about 1/4 inch deep along the center of each roll. In a small bowl, combine the egg white and water. Brush the tops and sides of the rolls. Cover with wax paper or a clean kitchen towel and let rise for 30 to 45 minutes. <br /> 4. Preheat oven to 375ºF. Here is another great tips I learned for baking breads. Place a baking dish on the bottom rack of oven while it is preheating. Right before baking the bread, fill hot baking dish with 1 cup of room temperature water. This will create steam and also result in a crisp exterior on the bread. Bake the rolls for 15 minutes. Brush again with egg white mixture. Bake for another 10 to 13 minutes or until golden brown. Remove from baking sheet and cool on wire racks. Rolls can be frozen for up to 3 months in a freezer bag.",
+              "refId": "1000"
+            },
+            {
+              "dish": "Dragon Chicken",
+              "img": "",
+              "description": "1) Take chicken in a bowl and add all the marination ingredients. Mix well and let it marinate for 15  mins. Now heat some oil for deepfrying. When the oil is hot drop the chicken in oil and fry till golden. Drain and set aside.<br />2) Now heat oil in a frying pan. Add in dry red chilli and cashews and fry till the cashew turn golden brown.<br />3) Now add in onions and bell peppers and toss well in the oil.<br />4) Add in ginger garlic paste and saute for a min.<br />5) Now add in red chilli paste, soy sauce, tomato ketchup, salt, ajinomoto, sugar and mix well.<br />6) Cook this for a couple of mins till the water evaporates and sauce thickens.<br />7) Now add in the fried chicken and toss well in the sauce. Add in chopped coriander or springonion and mix well.<br />8) Serve hot.",
+              "refId": "1001"
+            }
+          ]
+        },
+        {
+          "subcategory": "Main Course",
+          "items": [
+            {
+              "dish": "Chicken Hakka Noodles",
+              "img": "",
+              "description": "1)Boil soba noodles in salted boiling water as per package directions. Drain and set aside.<br />2)Heat oil in a pan, add in onions, capsicum and saute for a min.<br />3)Add in ginger garlic paste and saute.<br />4)Add in tomatoes and cook for 2 mins.<br />5)Add spice powders, ketchup, salt and mix well.<br />6)Add chicken and mix well.<br />7)Add in 1/2 cup to 1 cup water and mix well.<br />8)Add cooked noodles and mix well.<br />9)Cover and simmer for 2 mins.<br />10)Serve hot.",
+              "refId": "1003"
+            },
+            {
+              "dish": "Egg Noodles",
+              "img": "",
+              "description": "1)Boil the noodles till done,Drain it and drizzle with some oil in it to prevent sticking.<br />2)In a small bowl mix in all the sauces and vinegar and keep it aside.<br />3)Heat a wok on high heat,Add oil and fry some ginger and garlic followed by onions and green chilli.<br />4)Now put in all the sliced vegetables and sauté till done.Add in the Salt,Sugar,Ajinomoto and mix well.<br />5)Set the vegetable mixture to the side of the wok and pour in the Egg,Scramble the egg on high heat till done and then mix it with the vegetables.<br />6)Now throw in the Noodles and mix together.<br />7)Pour in the sauce mixture,chilli paste and toss well.<br />8)Mix together,till the sauce coats each strands of eggy noodles.",
+              "refId": "1004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "North Indian",
+      "course": [
+        {
+          "subcategory": "Starter",
+          "items": [
+            {
+              "dish": "Dahi Vada",
+              "img": "",
+              "description": "1)Make some vadai.<br />2)Now make the curd mixture, Take curd in a bowl and beat well.<br />3)Add in carrots, green chilli and coriander leaves in this and mix well.<br />4)Now add in salt and sugar and mix them well.<br />5)Make tempering by heating oil and crackling mustard, urad dal and curry leaves in that. Pour this over the curd mixture and mix well.<br />6)Now lets assemble the curd vadai. Take fried vadai and soak them in boiling water. Leave them for 1 mins in the water and drain them. <br />7)Put them in a bowl and pour the curd mixture over  it.<br />8)Leave them to soak for 30 mins. <br />9)Serve them with more carrots on top.",
+              "refId": "1005"
+            },
+            {
+              "dish": "Baby Potato Roast",
+              "img": "",
+              "description": "1)Cook baby potatoes in salted water till it is cooked, drain and peel off the skin. Set aside.<br />2)Heat oil in a kadai. Add in mustard seeds,urad dal and curry leaves. let them sizzle.<br />3)Add in potatoes, turmeric and salt and toss well. Cook till it gets roasted.<br />4)Add in chilli powder and mix well.<br />5)Serve.",
+              "refId": "1006"
+            }
+          ]
+        },
+        {
+          "subcategory": "Main Course",
+          "items": [
+            {
+              "dish": "Kadai Paneer",
+              "img": "",
+              "description": "1) In a large bowl combine 1 1/2 cups of flour,yeast, sugar, and salt, add warm water. Beat with an electric mixer on low to medium speed 30 seconds, scraping sides of bowl. Beat on high speed for 3 minutes. Using a wooden spoon, stir in as much of the flour as you can. <br /> 2.Turn out dough onto a lightly floured surface. Knead in enough flour to make a stiff dough that is smooth and elastic (6 to 8 minutes). Shape into a ball. Place in a lightly greased bowl, turning once to coat the surface. Cover and let rise, in a warm space, for one hour. <br /> 3. Punch down after 1 hour.Turn out onto lightly floured surface. Divide the dough into 6 equal parts, shape into oval shapes, pulling and twisting slightly. Transfer to baking sheet lined with parchment paper. Use a sharp knife to make a cut about 1/4 inch deep along the center of each roll. In a small bowl, combine the egg white and water. Brush the tops and sides of the rolls. Cover with wax paper or a clean kitchen towel and let rise for 30 to 45 minutes. <br /> 4. Preheat oven to 375ºF. Here is another great tips I learned for baking breads. Place a baking dish on the bottom rack of oven while it is preheating. Right before baking the bread, fill hot baking dish with 1 cup of room temperature water. This will create steam and also result in a crisp exterior on the bread. Bake the rolls for 15 minutes. Brush again with egg white mixture. Bake for another 10 to 13 minutes or until golden brown. Remove from baking sheet and cool on wire racks. Rolls can be frozen for up to 3 months in a freezer bag.",
+              "refId": "1007"
+            },
+            {
+              "dish": "Dum Aloo",
+              "img": "",
+              "description": "1) In a large bowl combine 1 1/2 cups of flour,yeast, sugar, and salt, add warm water. Beat with an electric mixer on low to medium speed 30 seconds, scraping sides of bowl. Beat on high speed for 3 minutes. Using a wooden spoon, stir in as much of the flour as you can. <br /> 2.Turn out dough onto a lightly floured surface. Knead in enough flour to make a stiff dough that is smooth and elastic (6 to 8 minutes). Shape into a ball. Place in a lightly greased bowl, turning once to coat the surface. Cover and let rise, in a warm space, for one hour. <br /> 3. Punch down after 1 hour.Turn out onto lightly floured surface. Divide the dough into 6 equal parts, shape into oval shapes, pulling and twisting slightly. Transfer to baking sheet lined with parchment paper. Use a sharp knife to make a cut about 1/4 inch deep along the center of each roll. In a small bowl, combine the egg white and water. Brush the tops and sides of the rolls. Cover with wax paper or a clean kitchen towel and let rise for 30 to 45 minutes. <br /> 4. Preheat oven to 375ºF. Here is another great tips I learned for baking breads. Place a baking dish on the bottom rack of oven while it is preheating. Right before baking the bread, fill hot baking dish with 1 cup of room temperature water. This will create steam and also result in a crisp exterior on the bread. Bake the rolls for 15 minutes. Brush again with egg white mixture. Bake for another 10 to 13 minutes or until golden brown. Remove from baking sheet and cool on wire racks. Rolls can be frozen for up to 3 months in a freezer bag.",
+              "refId": "1008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "South Indian",
+      "course": [
+        {
+          "subcategory": "Starter",
+          "items": [
+            {
+              "dish": "Bajji Bonda",
+              "img": "",
+              "description": "1) In a large bowl combine 1 1/2 cups of flour,yeast, sugar, and salt, add warm water. Beat with an electric mixer on low to medium speed 30 seconds, scraping sides of bowl. Beat on high speed for 3 minutes. Using a wooden spoon, stir in as much of the flour as you can. <br /> 2.Turn out dough onto a lightly floured surface. Knead in enough flour to make a stiff dough that is smooth and elastic (6 to 8 minutes). Shape into a ball. Place in a lightly greased bowl, turning once to coat the surface. Cover and let rise, in a warm space, for one hour. <br /> 3. Punch down after 1 hour.Turn out onto lightly floured surface. Divide the dough into 6 equal parts, shape into oval shapes, pulling and twisting slightly. Transfer to baking sheet lined with parchment paper. Use a sharp knife to make a cut about 1/4 inch deep along the center of each roll. In a small bowl, combine the egg white and water. Brush the tops and sides of the rolls. Cover with wax paper or a clean kitchen towel and let rise for 30 to 45 minutes. <br /> 4. Preheat oven to 375ºF. Here is another great tips I learned for baking breads. Place a baking dish on the bottom rack of oven while it is preheating. Right before baking the bread, fill hot baking dish with 1 cup of room temperature water. This will create steam and also result in a crisp exterior on the bread. Bake the rolls for 15 minutes. Brush again with egg white mixture. Bake for another 10 to 13 minutes or until golden brown. Remove from baking sheet and cool on wire racks. Rolls can be frozen for up to 3 months in a freezer bag.",
+              "refId": "1009"
+            },
+            {
+              "dish": "Banana Chips",
+              "img": "",
+              "description": "1) In a large bowl combine 1 1/2 cups of flour,yeast, sugar, and salt, add warm water. Beat with an electric mixer on low to medium speed 30 seconds, scraping sides of bowl. Beat on high speed for 3 minutes. Using a wooden spoon, stir in as much of the flour as you can. <br /> 2.Turn out dough onto a lightly floured surface. Knead in enough flour to make a stiff dough that is smooth and elastic (6 to 8 minutes). Shape into a ball. Place in a lightly greased bowl, turning once to coat the surface. Cover and let rise, in a warm space, for one hour. <br /> 3. Punch down after 1 hour.Turn out onto lightly floured surface. Divide the dough into 6 equal parts, shape into oval shapes, pulling and twisting slightly. Transfer to baking sheet lined with parchment paper. Use a sharp knife to make a cut about 1/4 inch deep along the center of each roll. In a small bowl, combine the egg white and water. Brush the tops and sides of the rolls. Cover with wax paper or a clean kitchen towel and let rise for 30 to 45 minutes. <br /> 4. Preheat oven to 375ºF. Here is another great tips I learned for baking breads. Place a baking dish on the bottom rack of oven while it is preheating. Right before baking the bread, fill hot baking dish with 1 cup of room temperature water. This will create steam and also result in a crisp exterior on the bread. Bake the rolls for 15 minutes. Brush again with egg white mixture. Bake for another 10 to 13 minutes or until golden brown. Remove from baking sheet and cool on wire racks. Rolls can be frozen for up to 3 months in a freezer bag.",
+              "refId": "1010"
+            }
+          ]
+        },
+        {
+          "subcategory": "Main Course",
+          "items": [
+            {
+              "dish": "Tamarind Rice",
+              "img": "",
+              "description": "1) In a large bowl combine 1 1/2 cups of flour,yeast, sugar, and salt, add warm water. Beat with an electric mixer on low to medium speed 30 seconds, scraping sides of bowl. Beat on high speed for 3 minutes. Using a wooden spoon, stir in as much of the flour as you can. <br /> 2.Turn out dough onto a lightly floured surface. Knead in enough flour to make a stiff dough that is smooth and elastic (6 to 8 minutes). Shape into a ball. Place in a lightly greased bowl, turning once to coat the surface. Cover and let rise, in a warm space, for one hour. <br /> 3. Punch down after 1 hour.Turn out onto lightly floured surface. Divide the dough into 6 equal parts, shape into oval shapes, pulling and twisting slightly. Transfer to baking sheet lined with parchment paper. Use a sharp knife to make a cut about 1/4 inch deep along the center of each roll. In a small bowl, combine the egg white and water. Brush the tops and sides of the rolls. Cover with wax paper or a clean kitchen towel and let rise for 30 to 45 minutes. <br /> 4. Preheat oven to 375ºF. Here is another great tips I learned for baking breads. Place a baking dish on the bottom rack of oven while it is preheating. Right before baking the bread, fill hot baking dish with 1 cup of room temperature water. This will create steam and also result in a crisp exterior on the bread. Bake the rolls for 15 minutes. Brush again with egg white mixture. Bake for another 10 to 13 minutes or until golden brown. Remove from baking sheet and cool on wire racks. Rolls can be frozen for up to 3 months in a freezer bag.",
+              "refId": "1011"
+            },
+            {
+              "dish": "Pulow",
+              "img": "",
+              "description": "1) In a large bowl combine 1 1/2 cups of flour,yeast, sugar, and salt, add warm water. Beat with an electric mixer on low to medium speed 30 seconds, scraping sides of bowl. Beat on high speed for 3 minutes. Using a wooden spoon, stir in as much of the flour as you can. <br /> 2.Turn out dough onto a lightly floured surface. Knead in enough flour to make a stiff dough that is smooth and elastic (6 to 8 minutes). Shape into a ball. Place in a lightly greased bowl, turning once to coat the surface. Cover and let rise, in a warm space, for one hour. <br /> 3. Punch down after 1 hour.Turn out onto lightly floured surface. Divide the dough into 6 equal parts, shape into oval shapes, pulling and twisting slightly. Transfer to baking sheet lined with parchment paper. Use a sharp knife to make a cut about 1/4 inch deep along the center of each roll. In a small bowl, combine the egg white and water. Brush the tops and sides of the rolls. Cover with wax paper or a clean kitchen towel and let rise for 30 to 45 minutes. <br /> 4. Preheat oven to 375ºF. Here is another great tips I learned for baking breads. Place a baking dish on the bottom rack of oven while it is preheating. Right before baking the bread, fill hot baking dish with 1 cup of room temperature water. This will create steam and also result in a crisp exterior on the bread. Bake the rolls for 15 minutes. Brush again with egg white mixture. Bake for another 10 to 13 minutes or until golden brown. Remove from baking sheet and cool on wire racks. Rolls can be frozen for up to 3 months in a freezer bag.",
+              "refId": "1012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Thai",
+      "course": [
+        {
+          "subcategory": "Starter",
+          "items": [
+            {
+              "dish": "Spring Rolls",
+              "img": "",
+              "description": "1) In a large bowl combine 1 1/2 cups of flour,yeast, sugar, and salt, add warm water. Beat with an electric mixer on low to medium speed 30 seconds, scraping sides of bowl. Beat on high speed for 3 minutes. Using a wooden spoon, stir in as much of the flour as you can. <br /> 2.Turn out dough onto a lightly floured surface. Knead in enough flour to make a stiff dough that is smooth and elastic (6 to 8 minutes). Shape into a ball. Place in a lightly greased bowl, turning once to coat the surface. Cover and let rise, in a warm space, for one hour. <br /> 3. Punch down after 1 hour.Turn out onto lightly floured surface. Divide the dough into 6 equal parts, shape into oval shapes, pulling and twisting slightly. Transfer to baking sheet lined with parchment paper. Use a sharp knife to make a cut about 1/4 inch deep along the center of each roll. In a small bowl, combine the egg white and water. Brush the tops and sides of the rolls. Cover with wax paper or a clean kitchen towel and let rise for 30 to 45 minutes. <br /> 4. Preheat oven to 375ºF. Here is another great tips I learned for baking breads. Place a baking dish on the bottom rack of oven while it is preheating. Right before baking the bread, fill hot baking dish with 1 cup of room temperature water. This will create steam and also result in a crisp exterior on the bread. Bake the rolls for 15 minutes. Brush again with egg white mixture. Bake for another 10 to 13 minutes or until golden brown. Remove from baking sheet and cool on wire racks. Rolls can be frozen for up to 3 months in a freezer bag.",
+              "refId": "1013"
+            },
+            {
+              "dish": "Mushroom Balls",
+              "img": "",
+              "description": "1) In a large bowl combine 1 1/2 cups of flour,yeast, sugar, and salt, add warm water. Beat with an electric mixer on low to medium speed 30 seconds, scraping sides of bowl. Beat on high speed for 3 minutes. Using a wooden spoon, stir in as much of the flour as you can. <br /> 2.Turn out dough onto a lightly floured surface. Knead in enough flour to make a stiff dough that is smooth and elastic (6 to 8 minutes). Shape into a ball. Place in a lightly greased bowl, turning once to coat the surface. Cover and let rise, in a warm space, for one hour. <br /> 3. Punch down after 1 hour.Turn out onto lightly floured surface. Divide the dough into 6 equal parts, shape into oval shapes, pulling and twisting slightly. Transfer to baking sheet lined with parchment paper. Use a sharp knife to make a cut about 1/4 inch deep along the center of each roll. In a small bowl, combine the egg white and water. Brush the tops and sides of the rolls. Cover with wax paper or a clean kitchen towel and let rise for 30 to 45 minutes. <br /> 4. Preheat oven to 375ºF. Here is another great tips I learned for baking breads. Place a baking dish on the bottom rack of oven while it is preheating. Right before baking the bread, fill hot baking dish with 1 cup of room temperature water. This will create steam and also result in a crisp exterior on the bread. Bake the rolls for 15 minutes. Brush again with egg white mixture. Bake for another 10 to 13 minutes or until golden brown. Remove from baking sheet and cool on wire racks. Rolls can be frozen for up to 3 months in a freezer bag.",
+              "refId": "1014"
+            }
+          ]
+        },
+        {
+          "subcategory": "Main Course",
+          "items": [
+            {
+              "dish": "Thai Khao Man Gai",
+              "img": "",
+              "description": "1) In a large bowl combine 1 1/2 cups of flour,yeast, sugar, and salt, add warm water. Beat with an electric mixer on low to medium speed 30 seconds, scraping sides of bowl. Beat on high speed for 3 minutes. Using a wooden spoon, stir in as much of the flour as you can. <br /> 2.Turn out dough onto a lightly floured surface. Knead in enough flour to make a stiff dough that is smooth and elastic (6 to 8 minutes). Shape into a ball. Place in a lightly greased bowl, turning once to coat the surface. Cover and let rise, in a warm space, for one hour. <br /> 3. Punch down after 1 hour.Turn out onto lightly floured surface. Divide the dough into 6 equal parts, shape into oval shapes, pulling and twisting slightly. Transfer to baking sheet lined with parchment paper. Use a sharp knife to make a cut about 1/4 inch deep along the center of each roll. In a small bowl, combine the egg white and water. Brush the tops and sides of the rolls. Cover with wax paper or a clean kitchen towel and let rise for 30 to 45 minutes. <br /> 4. Preheat oven to 375ºF. Here is another great tips I learned for baking breads. Place a baking dish on the bottom rack of oven while it is preheating. Right before baking the bread, fill hot baking dish with 1 cup of room temperature water. This will create steam and also result in a crisp exterior on the bread. Bake the rolls for 15 minutes. Brush again with egg white mixture. Bake for another 10 to 13 minutes or until golden brown. Remove from baking sheet and cool on wire racks. Rolls can be frozen for up to 3 months in a freezer bag.",
+              "refId": "1015"
+            },
+            {
+              "dish": "Thai Drunken Fish",
+              "img": "",
+              "description": "<ol><li>In a large bowl combine 1 1/2 cups of flour,yeast, sugar, and salt, add warm water. Beat with an electric mixer on low to medium speed 30 seconds, scraping sides of bowl. Beat on high speed for 3 minutes. Using a wooden spoon, stir in as much of the flour as you can. </li> <li>Turn out dough onto a lightly floured surface. Knead in enough flour to make a stiff dough that is smooth and elastic (6 to 8 minutes). Shape into a ball. Place in a lightly greased bowl, turning once to coat the surface. Cover and let rise, in a warm space, for one hour. </li> <li>Punch down after 1 hour.Turn out onto lightly floured surface. Divide the dough into 6 equal parts, shape into oval shapes, pulling and twisting slightly. Transfer to baking sheet lined with parchment paper. Use a sharp knife to make a cut about 1/4 inch deep along the center of each roll. In a small bowl, combine the egg white and water. Brush the tops and sides of the rolls. Cover with wax paper or a clean kitchen towel and let rise for 30 to 45 minutes. </li> <li>Preheat oven to 375ºF. Here is another great tips I learned for baking breads. Place a baking dish on the bottom rack of oven while it is preheating. Right before baking the bread, fill hot baking dish with 1 cup of room temperature water. This will create steam and also result in a crisp exterior on the bread. Bake the rolls for 15 minutes. Brush again with egg white mixture. Bake for another 10 to 13 minutes or until golden brown. Remove from baking sheet and cool on wire racks. Rolls can be frozen for up to 3 months in a freezer bag.</li></ol>",
+              "refId": "1016"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "favorites": [
+    {
+      "dish": "Egg Noodles",
+      "img": "",
+      "description": "1)Boil the noodles till done,Drain it and drizzle with some oil in it to prevent sticking.<br />2)In a small bowl mix in all the sauces and vinegar and keep it aside.<br />3)Heat a wok on high heat,Add oil and fry some ginger and garlic followed by onions and green chilli.<br />4)Now put in all the sliced vegetables and sauté till done.Add in the Salt,Sugar,Ajinomoto and mix well.<br />5)Set the vegetable mixture to the side of the wok and pour in the Egg,Scramble the egg on high heat till done and then mix it with the vegetables.<br />6)Now throw in the Noodles and mix together.<br />7)Pour in the sauce mixture,chilli paste and toss well.<br />8)Mix together,till the sauce coats each strands of eggy noodles.",
+      "refId": "1004",
+      "count": 5,
+      "id": 1
+    },
+    {
+      "dish": "Mexican Bread Rolls",
+      "img": "",
+      "description": "1) In a large bowl combine 1 1/2 cups of flour,yeast, sugar, and salt, add warm water. Beat with an electric mixer on low to medium speed 30 seconds, scraping sides of bowl. Beat on high speed for 3 minutes. Using a wooden spoon, stir in as much of the flour as you can. <br /> 2.Turn out dough onto a lightly floured surface. Knead in enough flour to make a stiff dough that is smooth and elastic (6 to 8 minutes). Shape into a ball. Place in a lightly greased bowl, turning once to coat the surface. Cover and let rise, in a warm space, for one hour. <br /> 3. Punch down after 1 hour.Turn out onto lightly floured surface. Divide the dough into 6 equal parts, shape into oval shapes, pulling and twisting slightly. Transfer to baking sheet lined with parchment paper. Use a sharp knife to make a cut about 1/4 inch deep along the center of each roll. In a small bowl, combine the egg white and water. Brush the tops and sides of the rolls. Cover with wax paper or a clean kitchen towel and let rise for 30 to 45 minutes. <br /> 4. Preheat oven to 375ºF. Here is another great tips I learned for baking breads. Place a baking dish on the bottom rack of oven while it is preheating. Right before baking the bread, fill hot baking dish with 1 cup of room temperature water. This will create steam and also result in a crisp exterior on the bread. Bake the rolls for 15 minutes. Brush again with egg white mixture. Bake for another 10 to 13 minutes or until golden brown. Remove from baking sheet and cool on wire racks. Rolls can be frozen for up to 3 months in a freezer bag.",
+      "refId": "1000",
+      "count": 3,
+      "id": 2
+    },
+    {
+      "dish": "Chicken Hakka Noodles",
+      "img": "",
+      "description": "1)Boil soba noodles in salted boiling water as per package directions. Drain and set aside.<br />2)Heat oil in a pan, add in onions, capsicum and saute for a min.<br />3)Add in ginger garlic paste and saute.<br />4)Add in tomatoes and cook for 2 mins.<br />5)Add spice powders, ketchup, salt and mix well.<br />6)Add chicken and mix well.<br />7)Add in 1/2 cup to 1 cup water and mix well.<br />8)Add cooked noodles and mix well.<br />9)Cover and simmer for 2 mins.<br />10)Serve hot.",
+      "refId": "1003",
+      "count": 5,
+      "id": 3
+    }
+  ]
+}
