@@ -1,0 +1,58 @@
+<app-header></app-header>
+<div class="d-flex bd-highlight sub-header">
+    <div class="p-2 w-100 bd-highlight">
+        Menu List
+    </div>
+</div>
+<p-accordion>
+    <p-accordionTab header="{{item.category}}" *ngFor="let item of menuLst">
+        <p-accordion>
+            <p-accordionTab header="{{courses.subcategory}}" *ngFor="let courses of item.course">
+                <p-accordion>
+                    <p-accordionTab header="{{dishes.dish}}" *ngFor="let dishes of courses.items">
+                        <div class="card mb-3">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
+                                    <img style="height: 200px;width: 335px;" src="assets/img/chicken-noodles.jpg"
+                                        alt="..." class="responsive">
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="card-body">
+                                        <h5 class="card-title">{{dishes.dish}}</h5>
+                                        <p class="card-text">This is the most famous dish and widely prepared by many of
+                                            our customers. To view more details of receipe click the below button...
+                                        </p>
+                                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small>
+                                        </p>
+                                        <a (click)="showModalDialog(dishes)" class="btn btn-primary">View More
+                                            Details</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </p-accordionTab>
+                </p-accordion>
+            </p-accordionTab>
+        </p-accordion>
+    </p-accordionTab>
+</p-accordion>
+
+<p-dialog header="Detailed Receipe" [(visible)]="displayModal" [modal]="true" [style]="{width: '90vw'}"
+    [baseZIndex]="10000" [draggable]="false" [resizable]="false">
+    <div class="card mb-3">
+        <div class="row no-gutters" style="padding: 10px;">
+            <div class="col-md-4">
+                <img class="img-detail" src="{{img}}" alt="...">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">{{dish}}</h5>
+                    <!-- <ol>
+                        <li [innerHtml]="description"></li>
+                    </ol> -->
+                    <p class="card-text" [innerHtml]="description">
+                </div>
+            </div>
+        </div>
+    </div>
+</p-dialog>

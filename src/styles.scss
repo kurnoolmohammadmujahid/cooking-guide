@@ -1,0 +1,63 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    padding: 0 80px;
+    background: lightcoral;
+}
+
+.main-header{
+    // height: 60px;
+    // padding: 7px;
+    font-weight: bold;
+    font-size: 2rem;
+    color: white;
+    background-color: #7d7b09;
+}
+
+.img-detail{
+    height: 200px;
+    width: 335px;
+    position: fixed;
+}
+
+.p-button.p-button-secondary, .p-buttonset.p-button-secondary > .p-button, .p-splitbutton.p-button-secondary > .p-button {
+    background: #5bcd84e8;
+}
+
+.btn-primary {
+    background-color: #5bcd84e8;
+}
+
+.sub-header {
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: white;
+    background-color: #7d7b099e;
+    text-align: center;
+}
+
+.btn-primary:hover {
+    background-color: lightcoral;
+}
+
+.p-accordion .p-accordion-header:not(.p-disabled).p-highlight .p-accordion-header-link {
+    background: #5bcd84e8;
+}
+
+.p-accordion .p-accordion-header .p-accordion-header-link {
+    // background: #19db602b;
+    background: #87a728b8;
+}
+
+.p-accordion .p-accordion-content {
+    background: #7d7b09;
+}
+
+.p-dialog .p-dialog-header {
+    background: #7d7b09;
+    color: white;
+}
+
+.p-dialog .p-dialog-header .p-dialog-header-icon {
+    color: white;
+}
+

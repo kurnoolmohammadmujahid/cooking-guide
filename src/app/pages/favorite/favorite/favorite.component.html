@@ -1,0 +1,49 @@
+<app-header></app-header>
+<div class="d-flex bd-highlight sub-header">
+    <div class="p-2 w-100 bd-highlight">
+        Favorites
+    </div>
+</div>
+
+<div class="card" *ngIf="enableMsg">
+    <div class="alert alert-success" role="alert">
+        <h4 class="alert-heading">No favorites available!</h4>
+        <p>The favorites list will be automatically updated based on user frequently using the cooking guide</p>
+        <hr>
+        <p class="mb-0">More frequently viewed detailed recipes will be captures as favorite.</p>
+    </div>
+</div>
+<div class="card mb-3" *ngFor="let item of favLst">
+    <div class="row no-gutters">
+        <div class="col-md-4">
+            <img style="height: 200px;width: 335px;" src="assets/img/chicken-noodles.jpg" alt="...">
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title">{{item.dish}}</h5>
+                <p class="card-text">This is the most famous dish and widely prepared by many of
+                    our customers. To view more details of receipe click the below button...
+                </p>
+                <a (click)="showModalDialog(item)" class="btn btn-primary">View More
+                    Details</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p-dialog header="Detailed Receipe" [(visible)]="displayModal" [modal]="true" [style]="{width: '90vw'}"
+    [baseZIndex]="10000" [draggable]="false" [resizable]="false">
+    <div class="card mb-3">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+                <img class="img-detail" src="{{img}}" alt="...">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">{{dish}}</h5>
+                    <p class="card-text" [innerHtml]="description">
+                </div>
+            </div>
+        </div>
+    </div>
+</p-dialog>
